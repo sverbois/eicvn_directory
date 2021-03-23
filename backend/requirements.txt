@@ -2,3 +2,4 @@ email-validator
 tinydb
 fastapi
 uvicorn
+black
