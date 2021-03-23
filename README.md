@@ -10,3 +10,7 @@ Elle utilise le framework fastapi pour le backend et TinyDB pour la persistance 
     python3.8 -m venv venv
     ./venv/bin/pip install --upgrade pip
     ./venv/bin/pip install -r requirements.txt
+
+
+## Section Tahar
+    bonjour all
