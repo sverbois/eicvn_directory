@@ -1,0 +1,59 @@
+.first_title{
+    text-align: center;
+    margin:25px
+}
+.choice{
+    margin: 200px;
+    text-align: center;
+}
+.btn-add,.btn-list{
+    padding: 25px;
+    background-color:rgb(32, 109, 32);
+    border-radius:5px;
+    color:white;
+    text-decoration: none;
+   
+}
+.btn-add:hover,.btn-list:hover{
+    background-color:rgba(32, 109, 32,0.7);
+    color:white;
+}
+.btn-add{
+    margin-right: 15px;
+}
+.btn-list{
+    margin-left: 15px;
+}
+.title_add{
+    padding: 15px 20px 15px 20px;
+    width: 30%;
+    margin: 30px auto;
+    text-align: center;
+    border: 2px solid rgb(32, 109, 32);
+    box-shadow: 8px 8px 0px rgba(32, 109, 32,0.1); 
+    
+}
+form{
+    width:30%;
+    margin:100px auto;
+    border: 2px solid rgb(32, 109, 32);
+    box-shadow: 8px 8px 0px rgba(32, 109, 32,0.1); 
+    border-radius: 5px;
+    padding:50px;
+    background-color:rgba(196, 206, 196, 0.1);
+    
+
+}
+.form-control{
+    border: 2px solid rgb(32, 109, 32);
+    
+}
+label{
+    margin-top: 15px;
+    
+}
+.btn{
+    width: 150px;
+    margin-top: 25px;
+    background-color:rgb(32, 109, 32);
+}
