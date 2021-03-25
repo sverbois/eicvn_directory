@@ -8,6 +8,6 @@ from pydantic import EmailStr
 class Contact(BaseModel):
     firstname: str
     lastname: str
-    birthday: datetime.date
+    # birthday: datetime.date
     phone: Optional[str] = None
     email: Optional[EmailStr] = None
