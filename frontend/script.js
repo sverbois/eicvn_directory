@@ -22,7 +22,7 @@ document.getElementById("registration").addEventListener("submit",function(e){
     .then((response)=>{
         if(response.ok) console.log("Contact crée");
         let ma_div = document.querySelector('.sign_in');
-        let text = '<h3>Votre contact a été ajouté fait</h3><a href="index.html" class="btn-return">retour</a>';
+        let text = '<h3>Votre contact a été ajouté </h3><a href="index.html" class="btn-return">retour</a>';
         ma_div.innerHTML = text;
     })
 })
